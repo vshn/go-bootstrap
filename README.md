@@ -1,3 +1,7 @@
+# Archival notice
+
+As of 2024-03-04, this repo is archived, since we don't really use it anymore.
+
 # go-bootstrap
 
 [![Build](https://img.shields.io/github/actions/workflow/status/vshn/go-bootstrap/.github/workflows/test.yml?branch=master)][build]
